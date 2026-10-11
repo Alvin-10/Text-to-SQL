@@ -19,7 +19,7 @@ User (NL query) → FastAPI /query → Agent Orchestrator
 
 ## Tech stack
 
-FastAPI · PostgreSQL · SQLAlchemy · sqlglot · Google Gemini (`gemini-2.5-flash`).
+FastAPI · PostgreSQL · SQLAlchemy · sqlglot · Google Gemini (`gemini-3.5-flash`).
 Seed data is a Chinook-style digital-media store (artists → albums → tracks, sold
 via invoices).
 
